@@ -1,0 +1,283 @@
+created_at,text,conversation_id,lang,in_reply_to_user_id,edit_history_tweet_ids,id,public_metrics.retweet_count,public_metrics.reply_count,public_metrics.like_count,public_metrics.quote_count,public_metrics.bookmark_count,public_metrics.impression_count,username
+2026-04-11T01:41:33.000Z,The security and privacy of your information are a top priority. We’re committed to being transparent and taking quick action when issues arise. We're sharing more technical details and FAQs here: https://t.co/RKxpzMLjL4,2042780052669239782,en,4398626122,['2042780059363336237'],2042780059363336237,22,17,172,7,34,92916,OpenAI
+2026-04-11T01:41:33.000Z,🔗 Atlas: https://t.co/TUXW74RWpY,2042780052669239782,lv,4398626122,['2042780058075672703'],2042780058075672703,3,7,66,0,16,87498,OpenAI
+2026-04-11T01:41:33.000Z,🔗 Codex CLI: https://t.co/D28mu0GF8t,2042780052669239782,en,4398626122,['2042780056804811115'],2042780056804811115,6,3,56,1,11,77398,OpenAI
+2026-04-11T01:41:32.000Z,🔗 Codex App: https://t.co/EeHzGYzV7d,2042780052669239782,en,4398626122,['2042780055559114993'],2042780055559114993,6,8,106,1,10,105664,OpenAI
+2026-04-11T01:41:32.000Z,🔗 ChatGPT Desktop: https://t.co/oUI4xDBePL,2042780052669239782,en,4398626122,['2042780054015611373'],2042780054015611373,5,7,117,0,17,110387,OpenAI
+2026-04-11T01:41:32.000Z,"We recently identified a security issue involving the third-party developer library Axios that was part of a broader industry incident. We found no evidence that OpenAI user data was accessed, that our systems were compromised, or that our software was altered.
+
+Out of an",2042780052669239782,en,,['2042780052669239782'],2042780052669239782,260,206,2716,128,779,1032493,OpenAI
+2026-04-09T17:38:16.000Z,"Our existing $200 Pro tier still remains our highest usage option. And as a thank you to our existing Pro users on the $200 tier, we’re extending our 2x Codex usage promo (until May 31st) and we’ve reset your Codex rate limits (yes, again). https://t.co/93MKXSOzYH",2042296046009626989,en,,['2042296046009626989'],2042296046009626989,285,357,5101,176,434,709732,OpenAI
+2026-04-09T17:36:51.000Z,https://t.co/AjmAVwyn1a,2042295688323875316,zxx,4398626122,['2042295692324991329'],2042295692324991329,22,36,598,3,62,242742,OpenAI
+2026-04-09T17:36:51.000Z,"The Codex promotion for existing Plus subscribers ends today and as a part of this, we’re rebalancing Codex usage in Plus to support more sessions throughout the week, rather than longer sessions in a single day.
+
+The Plus plan will continue to be the best offer at $20 for",2042295688323875316,en,4398626122,['2042295690382995789'],2042295690382995789,50,88,1380,68,117,329987,OpenAI
+2026-04-09T17:36:50.000Z,"We’re updating our ChatGPT Pro and Plus subscriptions to better support the growing use of Codex.
+
+We’re introducing a new $100/month Pro tier. This new tier offers 5x more Codex usage than Plus and is best for longer, high-effort Codex sessions. 
+
+In ChatGPT, this new Pro tier",2042295688323875316,en,,['2042295688323875316'],2042295688323875316,1381,1169,15665,1214,2657,4426929,OpenAI
+2026-04-06T17:12:57.000Z,"Introducing the OpenAI Safety Fellowship, a new program supporting independent research on AI safety and alignment—and the next generation of talent.
+
+https://t.co/vAQKvf8KyO",2041202511647019251,en,,['2041202511647019251'],2041202511647019251,289,386,2632,91,1255,899498,OpenAI
+2026-04-02T16:56:01.000Z,"ChatGPT is now available in CarPlay.
+
+The voice mode you know, now available on-the-go.
+
+Rolling out to iPhone users running iOS 26.4+ where CarPlay is supported. https://t.co/yk3qdLa99r https://t.co/aXQqH9MNuG",2039748699350532097,en,,['2039748699350532097'],2039748699350532097,841,762,10929,671,1233,6789872,OpenAI
+2026-03-31T20:59:21.000Z,"Today, we closed our latest funding round with $122 billion in committed capital at an $852B post-money valuation.
+
+The fastest way to expand AI’s benefits is to put useful intelligence in people’s hands early and let access compound globally. 
+
+This funding gives us resources to",2039085161971896807,en,,['2039085161971896807'],2039085161971896807,736,1099,8386,837,1078,3727946,OpenAI
+2026-03-25T17:20:16.000Z,"Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/hLcRdGrfUX
+Apple
+https://t.co/0AdZ1ZteOV
+YouTube
+https://t.co/HrNsP17JsO",2036855694906057079,en,4398626122,['2036855700132147593'],2036855700132147593,18,24,137,3,25,135464,OpenAI
+2026-03-25T17:20:16.000Z,More on our approach to the Model Spec: https://t.co/zoBjdnmKRk,2036855694906057079,en,4398626122,['2036855698617938422'],2036855698617938422,22,37,235,6,63,108004,OpenAI
+2026-03-25T17:20:15.000Z,"The more AI can do, the more we need to ask what it should and shouldn’t do.
+
+OpenAI researcher @w01fe joins host @AndrewMayne to explore the Model Spec, the public framework that defines how models are intended to behave.
+
+They break down how it works in practice, from the chain https://t.co/ZctVfctglO",2036855694906057079,en,,['2036855694906057079'],2036855694906057079,123,379,1193,50,279,214585,OpenAI
+2026-03-23T20:47:55.000Z,"It’s now easier to find, reuse, and build on the files you upload and create in ChatGPT.
+
+You can quickly reference files in a chat using recent files in the toolbar, ask ChatGPT about something you’ve uploaded, or browse your files in the new Library tab in the web sidebar. https://t.co/fIazWRF9h3",2036183180219392103,en,,['2036183180219392103'],2036183180219392103,404,454,4720,142,880,636038,OpenAI
+2026-03-18T17:06:02.000Z,"Are you up for a challenge? 
+
+https://t.co/GNryIDhnut https://t.co/ZX7ZiuhGgu",2034315401438580953,en,,['2034315401438580953'],2034315401438580953,284,386,4170,208,2481,1406772,OpenAI
+2026-03-17T17:08:20.000Z,GPT-5.4 nano is is also available starting today in the API.,2033953592424731072,en,4398626122,['2033953595637538849'],2033953595637538849,32,55,697,13,27,133876,OpenAI
+2026-03-17T17:08:20.000Z,"GPT-5.4 mini is available today in ChatGPT, Codex, and the API.
+
+Optimized for coding, computer use, multimodal understanding, and subagents. And it’s 2x faster than GPT-5 mini.
+
+https://t.co/DKh2cC5S3F https://t.co/sirArgn37L",2033953592424731072,en,,['2033953592424731072'],2033953592424731072,707,652,6413,409,835,1667110,OpenAI
+2026-03-16T17:00:22.000Z,"Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/hLcRdGrfUX
+Apple
+https://t.co/0AdZ1ZteOV
+YouTube
+https://t.co/yjT9wmRBTz",2033589167905734668,en,4398626122,['2033589201929933253'],2033589201929933253,26,15,96,3,20,132604,OpenAI
+2026-03-16T17:00:14.000Z,"AI is starting to help solve real issues in healthcare for patients and doctors.
+
+OpenAI’s Head of Health Dr. Nate Gross and Health AI Research Lead Karan Singhal join @AndrewMayne to discuss how we're building new models and products to meet the world's health needs. https://t.co/UTsSCAqVyt",2033589167905734668,en,,['2033589167905734668'],2033589167905734668,98,190,1012,17,292,175677,OpenAI
+2026-03-09T17:01:35.000Z,"We’re acquiring Promptfoo.
+
+Their technology will strengthen agentic security testing and evaluation capabilities in OpenAI Frontier. Promptfoo will remain open source under the current license, and we will continue to service and support current customers.",2031052793835106753,en,,['2031052793835106753'],2031052793835106753,527,671,5434,260,1584,1987140,OpenAI
+2026-03-06T18:19:33.000Z,"Codex Security—our application security agent—is now in research preview.
+
+https://t.co/JG2uwGUJFv",2029985250512920743,en,,['2029985250512920743'],2029985250512920743,293,372,2638,151,733,600710,OpenAI
+2026-03-05T20:07:34.000Z,"We're publishing a new evaluation suite and research paper on Chain-of-Thought (CoT) Controllability.
+
+We find that GPT-5.4 Thinking shows low ability to obscure its reasoning—suggesting CoT monitoring remains a useful safety tool. https://t.co/isZkNkPXZm",2029650046002811280,en,,['2029650046002811280'],2029650046002811280,318,235,2796,71,920,347705,OpenAI
+2026-03-05T18:10:40.000Z,"GPT-5.4 Thinking and Pro are rolling out gradually starting today across ChatGPT, the API, and Codex. 
+https://t.co/LukYM9v1vk",2029620619743219811,en,4398626122,['2029620624923189283'],2029620624923189283,110,74,1742,30,131,287355,OpenAI
+2026-03-05T18:10:39.000Z,"GPT-5.4 is our most factual and efficient model: fewer tokens, faster speed.
+
+In ChatGPT, GPT-5.4 Thinking has improved deep web research, better context retention when it thinks for longer—and oh—you can now interrupt the model and add instructions or adjust its direction https://t.co/a0ayi6aOYV",2029620619743219811,en,4398626122,['2029620623199326334'],2029620623199326334,214,147,2875,88,250,472334,OpenAI
+2026-03-05T18:10:38.000Z,"GPT-5.4 Thinking and GPT-5.4 Pro are rolling out now in ChatGPT.
+
+GPT-5.4 is also now available in the API and Codex.
+
+GPT-5.4 brings our advances in reasoning, coding, and agentic workflows into one frontier model. https://t.co/1hy6xXLAmJ",2029620619743219811,en,,['2029620619743219811'],2029620619743219811,3324,2127,23621,1981,3191,6958032,OpenAI
+2026-03-03T19:03:00.000Z,5.4 sooner than you Think.,2028909019977703752,en,,['2028909019977703752'],2028909019977703752,1974,3546,28799,1348,1370,5054969,OpenAI
+2026-03-03T18:02:12.000Z,"GPT-5.3 Instant gives you more accurate answers. When using web search, you also get:
+
+- Sharper contextualization
+
+- Better understanding of question subtext
+
+- More consistent response tone within the chat https://t.co/3rwJb8tJe2",2028893701427302559,en,4398626122,['2028893717877375132'],2028893717877375132,40,70,943,13,68,351215,OpenAI
+2026-03-03T18:02:10.000Z,GPT-5.3 Instant also has fewer unnecessary refusals and preachy disclaimers. https://t.co/wX6wh5Aynp,2028893701427302559,en,4398626122,['2028893710323466605'],2028893710323466605,79,120,1700,30,157,507295,OpenAI
+2026-03-03T18:02:08.000Z,"We heard your feedback loud and clear, and 5.3 Instant reduces the cringe. https://t.co/WqO0XzLcVu",2028893701427302559,en,4398626122,['2028893702865989707'],2028893702865989707,76,306,3118,170,260,1213703,OpenAI
+2026-03-03T18:02:08.000Z,"GPT-5.3 Instant in ChatGPT is now rolling out to everyone.
+
+More accurate, less cringe.
+
+https://t.co/oJpXsp9TBc",2028893701427302559,en,,['2028893701427302559'],2028893701427302559,1173,1778,11169,892,1591,8091639,OpenAI
+2026-02-28T20:39:00.000Z,We do not think Anthropic should be designated as a supply chain risk and we’ve made our position on this clear to the Department of War.,2027846012107456943,en,4398626122,['2027846016423321831'],2027846016423321831,282,298,4616,128,411,2032273,OpenAI
+2026-02-28T20:39:00.000Z,"Other AI labs have reduced or removed their safety guardrails and relied primarily on usage policies as their primary safeguards in national security deployments. We think our approach better protects against unacceptable use.
+
+In our agreement, we protect our redlines through a",2027846012107456943,en,4398626122,['2027846015051772121'],2027846015051772121,46,74,577,9,55,261982,OpenAI
+2026-02-28T20:38:59.000Z,"Our agreement with the Department of War upholds our redlines:
+
+- No use of OpenAI technology for mass domestic surveillance.
+
+- No use of OpenAI technology to direct autonomous weapons systems.
+
+- No use of OpenAI technology for high-stakes automated decisions (e.g. systems such",2027846012107456943,en,4398626122,['2027846013650932195'],2027846013650932195,79,258,1318,80,206,344726,OpenAI
+2026-02-28T20:38:59.000Z,"Yesterday we reached an agreement with the Department of War for deploying advanced AI systems in classified environments, which we requested they make available to all AI companies.
+
+We think our deployment has more guardrails than any previous agreement for classified AI",2027846012107456943,en,,['2027846012107456943'],2027846012107456943,579,1851,3852,606,1335,2577783,OpenAI
+2026-02-27T13:31:31.000Z,"Helping AI reach more people requires deep collaboration across the ecosystem.
+
+Today we’re announcing new investment, with support from @SoftBank, @NVIDIA, and @Amazon, to scale the infrastructure needed to bring AI to everyone.
+
+https://t.co/xW0ItgMTLe",2027376050263793814,en,,['2027376050263793814'],2027376050263793814,368,592,3278,211,384,873069,OpenAI
+2026-02-24T21:43:31.000Z,"AI is changing how work gets done, and we want to lead that transition responsibly.
+
+Excited to welcome Arvind KC as Chief People Officer to help OpenAI grow and be a model for how AI-enabled work can expand what people can do. https://t.co/uZe9zUthnS",2026412700583317815,en,,['2026412700583317815'],2026412700583317815,120,447,1353,45,135,271161,OpenAI
+2026-02-18T18:46:44.000Z,"Introducing EVMbench—a new benchmark that measures how well AI agents can detect, exploit, and patch high-severity smart contract vulnerabilities. https://t.co/op5zufgAGH",2024193883748651102,en,,['2024193883748651102'],2024193883748651102,1287,1165,8778,829,3023,2539640,OpenAI
+2026-02-13T19:19:09.000Z,"Thank you to our collaborators for their partnership. The preprint is available on arXiv and is being submitted for publication. 
+
+We welcome feedback from the community. https://t.co/zxoZkGFG9x",2022390096625078389,en,4398626122,['2022390104237707667'],2022390104237707667,45,89,719,10,111,198423,OpenAI
+2026-02-13T19:19:09.000Z,"In modern amplitude theory, simple formulas often signal deeper structure. 
+
+Showing that a case long thought to be empty actually contains structure sharpens our understanding of the mathematics of the strong force and opens new directions, including extensions to gravity and",2022390096625078389,en,4398626122,['2022390103017161216'],2022390103017161216,37,64,604,4,27,188920,OpenAI
+2026-02-13T19:19:09.000Z,"The authors of the preprint realized this a year ago and sought to find the correct formula for interactions involving any number n of gluons, going up to n=6 by hand but obtaining complicated expressions that they sought to simplify, without success. 
+
+GPT-5.2 simplified these",2022390096625078389,en,4398626122,['2022390101670854878'],2022390101670854878,43,32,764,34,71,176634,OpenAI
+2026-02-13T19:19:08.000Z,"For decades, one specific gluon interaction (“single-minus” at tree level) was widely treated as having zero amplitude, meaning it was assumed not to occur. 
+
+When an amplitude is zero, physicists may ignore it. But this preprint shows that the conclusion is too strong: in a",2022390096625078389,en,4398626122,['2022390100055986540'],2022390100055986540,23,22,718,6,45,192014,OpenAI
+2026-02-13T19:19:08.000Z,"Gluons carry the strong nuclear force, which is the force that binds quarks together inside protons and neutrons. 
+
+Without the strong force, atomic nuclei would not exist. 
+
+It is one of the four fundamental forces of nature and a core part of the Standard Model of particle",2022390096625078389,en,4398626122,['2022390098495721597'],2022390098495721597,23,36,825,3,50,194689,OpenAI
+2026-02-13T19:19:07.000Z,"GPT-5.2 derived a new result in theoretical physics.
+
+We’re releasing the result in a preprint with researchers from @the_IAS, @VanderbiltU, @Cambridge_Uni, and @Harvard. It shows that a gluon interaction many physicists expected would not occur can arise under specific",2022390096625078389,en,,['2022390096625078389'],2022390096625078389,1480,952,9530,702,3054,4505104,OpenAI
+2026-02-12T18:07:06.000Z,"Rolling out today to ChatGPT Pro users in the Codex app, CLI, and IDE extension. 
+https://t.co/Ln74zCPJqK",2022009582210715925,en,4398626122,['2022009583653576787'],2022009583653576787,93,112,1103,38,138,233329,OpenAI
+2026-02-12T18:07:06.000Z,"GPT-5.3-Codex-Spark is now in research preview.
+
+You can just build things—faster. https://t.co/85LzDOgcQj",2022009582210715925,en,,['2022009582210715925'],2022009582210715925,639,597,5731,481,1001,1510279,OpenAI
+2026-02-10T19:07:13.000Z,"Now in deep research you can:
+
+- Connect to apps in ChatGPT and search specific sites
+
+- Track real-time progress and interrupt with follow-ups or new sources
+
+- View fullscreen reports https://t.co/XAWKFNS8Ql",2021299935678026168,en,4398626122,['2021299936948781095'],2021299936948781095,130,120,1535,25,286,301957,OpenAI
+2026-02-10T19:07:13.000Z,"Deep research in ChatGPT is now powered by GPT-5.2.
+
+Rolling out starting today with more improvements. https://t.co/LdgoWlucuE",2021299935678026168,en,,['2021299935678026168'],2021299935678026168,545,620,5276,294,931,1662472,OpenAI
+2026-02-10T00:56:03.000Z,"Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/mCUNQMANGy
+Apple
+https://t.co/2049K2MWSB
+YouTube
+https://t.co/v9MpyjxIjH",2021025290366091442,en,4398626122,['2021025336897700114'],2021025336897700114,18,40,156,2,12,181042,OpenAI
+2026-02-10T00:55:52.000Z,"This week's podcast is all about ads.
+
+Asad Awan, one of the leads behind ads at OpenAI, joins @AndrewMayne to share how we came up with our ad principles and how ads in ChatGPT free and Go tiers expand AI access for all. https://t.co/WTptRgg0uE",2021025290366091442,en,,['2021025290366091442'],2021025290366091442,81,215,694,21,119,165065,OpenAI
+2026-02-09T19:03:52.000Z,"We’re starting to roll out a test for ads in ChatGPT today to a subset of free and Go users in the U.S.
+
+Ads do not influence ChatGPT’s answers. Ads are labeled as sponsored and visually separate from the response.
+
+Our goal is to give everyone access to ChatGPT for free with https://t.co/S9BV24uJLb",2020936703763153010,en,,['2020936703763153010'],2020936703763153010,313,965,3512,404,509,953368,OpenAI
+2026-02-09T00:03:38.000Z,You can just build things. https://t.co/g0JCVjbSef,2020649757434327362,en,,['2020649757434327362'],2020649757434327362,744,1141,7767,473,1491,2928738,OpenAI
+2026-02-06T17:16:33.000Z,https://t.co/i2o8eixpWo,2019822532795547807,zxx,4398626122,['2019822535119106245'],2019822535119106245,27,27,341,2,24,103979,OpenAI
+2026-02-06T17:16:33.000Z,https://t.co/xH9FGAb2zG,2019822532795547807,zxx,4398626122,['2019822534003437619'],2019822534003437619,25,23,341,2,20,114968,OpenAI
+2026-02-06T17:16:32.000Z,"Over 300M people use ChatGPT to learn how to do something every week. 
+
+More than half of US ChatGPT users say it enables them to achieve things that previously felt impossible. 
+
+These are just a few stories of what they are building. https://t.co/BBb8vS4vEP",2019822532795547807,en,,['2019822532795547807'],2019822532795547807,222,522,2320,70,342,1027447,OpenAI
+2026-02-05T19:07:32.000Z,"We plan to apply lab-in-the-loop optimization to other biological workflows where faster iteration can unlock progress. We see autonomous labs as complementary to models. Models can generate designs, but ultimately biology still requires testing and iteration. Closing the loop",2019488071134347605,en,4398626122,['2019488076545065364'],2019488076545065364,49,35,671,8,137,131165,OpenAI
+2026-02-05T19:07:31.000Z,"We found that the improvements came from identifying combinations that work well together and that hold up in the realities of high-throughput automation.
+
+GPT-5 identified low-cost reaction compositions that humans had not previously tested in this configuration. Cell-free",2019488071134347605,en,4398626122,['2019488074934460897'],2019488074934460897,35,31,772,2,76,146361,OpenAI
+2026-02-05T19:07:31.000Z,"GPT-5 was connected to an autonomous lab: it designed experiments, the lab executed them, and the results informed the next designs across six iterations. 
+
+In this setup, GPT-5 designed batches of experiments, the lab executed them, and the data fed back into the next round. We https://t.co/wZgLebztWr",2019488071134347605,en,4398626122,['2019488072912839111'],2019488072912839111,47,13,923,10,132,109633,OpenAI
+2026-02-05T19:07:31.000Z,"We worked with @Ginkgo to connect GPT-5 to an autonomous lab, so it could propose experiments, run them at scale, learn from the results, and decide what to try next. That closed loop brought protein production cost down by 40%. https://t.co/udKBKxnKlW",2019488071134347605,en,,['2019488071134347605'],2019488071134347605,1248,466,9631,653,2798,3123905,OpenAI
+2026-02-05T18:12:12.000Z,"GPT-5.3-Codex is now available in Codex.
+
+You can just build things.
+https://t.co/dyBiIQXGx1",2019474152743223477,en,,['2019474152743223477'],2019474152743223477,1432,655,10663,662,1425,2871802,OpenAI
+2026-02-05T14:12:04.000Z,"We’re also working with a small group of Frontier partners—@AbridgeHQ, @AmbienceAI, @clay, @DecagonAI, @harvey, and @SierraPlatform—to design solutions for enterprises and support deployment. 
+
+Over time, we’ll expand the program and welcome more builders focused on enterprise",2019413712772411528,en,4398626122,['2019413720967852040'],2019413720967852040,28,22,329,5,50,135607,OpenAI
+2026-02-05T14:12:04.000Z,"Frontier is available today to a limited set of customers, with broader availability coming over the next few months.
+
+@HP, @Intuit, @Oracle, @StateFarm, @thermofisher, and @Uber are among the first to adopt Frontier, and dozens of existing customers–including @BBVA, @Cisco, and",2019413712772411528,en,4398626122,['2019413719462105293'],2019413719462105293,28,25,366,5,45,134793,OpenAI
+2026-02-05T14:12:03.000Z,"We also pair OpenAI Forward Deployed Engineers with your team, working side by side to develop your best practices to build and run agents in production.
+
+And there’s a tight feedback loop to OpenAI Research: as you deploy agents, we learn what needs to improve around the model",2019413712772411528,en,4398626122,['2019413717754991091'],2019413717754991091,14,17,463,8,66,94534,OpenAI
+2026-02-05T14:12:03.000Z,"Frontier gives agents the same skills people need to succeed at work:
+
+- Understand how work gets done
+- Use a computer and tools
+- Improve quality over time
+- Stay governed &amp; observable https://t.co/9EYu4XS3G4",2019413712772411528,en,4398626122,['2019413714341097945'],2019413714341097945,88,28,1064,39,455,502873,OpenAI
+2026-02-05T14:12:02.000Z,"Introducing OpenAI Frontier—a new platform that helps enterprises build, deploy, and manage AI coworkers that can do real work. https://t.co/4W0adQzSZ1",2019413712772411528,en,,['2019413712772411528'],2019413712772411528,776,570,6118,453,3577,2115240,OpenAI
+2026-02-04T22:16:59.000Z,"And some closing thoughts from @thsottiaux
+
+https://t.co/YDsvlPRP2t",2019173348132188330,en,4398626122,['2019173366117372215'],2019173366117372215,8,10,103,1,10,112015,OpenAI
+2026-02-04T22:16:59.000Z,https://t.co/iRRYLpvnKx,2019173348132188330,zxx,4398626122,['2019173364388999202'],2019173364388999202,16,5,107,0,39,132580,OpenAI
+2026-02-04T22:16:58.000Z,https://t.co/t8dw1tANEG,2019173348132188330,zxx,4398626122,['2019173362841579527'],2019173362841579527,2,3,44,0,4,21477,OpenAI
+2026-02-04T22:16:58.000Z,https://t.co/cAIiebcJxL,2019173348132188330,zxx,4398626122,['2019173360966726054'],2019173360966726054,1,3,47,0,11,24711,OpenAI
+2026-02-04T22:16:57.000Z,https://t.co/o02Iha3Hup,2019173348132188330,zxx,4398626122,['2019173359070900353'],2019173359070900353,1,2,51,0,8,28535,OpenAI
+2026-02-04T22:16:57.000Z,https://t.co/6uetFpVfjC,2019173348132188330,zxx,4398626122,['2019173357271626168'],2019173357271626168,2,3,60,0,12,30833,OpenAI
+2026-02-04T22:16:57.000Z,https://t.co/giuvulHh5A,2019173348132188330,zxx,4398626122,['2019173355426050233'],2019173355426050233,2,3,94,0,36,36281,OpenAI
+2026-02-04T22:16:56.000Z,https://t.co/KYoaFi5Yjf,2019173348132188330,zxx,4398626122,['2019173353156747353'],2019173353156747353,7,4,88,1,26,40894,OpenAI
+2026-02-04T22:16:56.000Z,https://t.co/pI5x61lnNS,2019173348132188330,zxx,4398626122,['2019173351449903414'],2019173351449903414,11,7,389,1,163,124184,OpenAI
+2026-02-04T22:16:55.000Z,https://t.co/8MFJgXvP8d,2019173348132188330,zxx,4398626122,['2019173349696381014'],2019173349696381014,7,9,287,1,47,148556,OpenAI
+2026-02-04T22:16:55.000Z,"There have been over 500K Codex app downloads since Monday.
+
+You can just build things, a thread 🧵",2019173348132188330,en,,['2019173348132188330'],2019173348132188330,211,265,3682,36,1624,500926,OpenAI
+2026-02-03T00:06:35.000Z,@ALupsasca @kevinweil @vicapow https://t.co/9mTLAbxPdH,2018475750018449615,qme,4398626122,['2018476171353342139'],2018476171353342139,14,19,242,1,34,107867,OpenAI
+2026-02-03T00:04:54.000Z,"Much of today’s scientific tooling has remained unchanged for decades. Prism changes that.
+
+@ALupsasca joins @kevinweil and @vicapow to walk through what it looks like when GPT-5.2 works inside a LaTeX project with full paper context. https://t.co/RjSCwexLpT",2018475750018449615,en,,['2018475750018449615'],2018475750018449615,147,180,1303,31,341,220402,OpenAI
+2026-02-02T18:06:34.000Z,"The Codex app is available starting today on macOS, with Windows coming soon.
+
+For a limited time, Codex is available through ChatGPT Free and Go subscriptions—and we’re doubling rate limits for Plus, Pro, Business, Enterprise, and Edu users—across the Codex app, CLI, IDE",2018385565289267236,en,4398626122,['2018385568992752059'],2018385568992752059,83,125,1384,60,329,479233,OpenAI
+2026-02-02T18:06:33.000Z,"With the Codex app you can:
+
+- Multitask effortlessly: Work with multiple agents in parallel and keep agent changes isolated with worktrees
+
+- Create &amp; use skills: package your tools + conventions into reusable capabilities
+
+⁃ Set up automations: delegate repetitive work to https://t.co/XSVfR281U2",2018385565289267236,en,4398626122,['2018385566891704339'],2018385566891704339,113,88,1586,65,427,392688,OpenAI
+2026-02-02T18:06:33.000Z,"Introducing the Codex app—a powerful command center for building with agents.
+
+Now available on macOS.
+
+https://t.co/HW05s2C9Nr",2018385565289267236,en,,['2018385565289267236'],2018385565289267236,1110,1239,8984,839,3543,4185949,OpenAI
+2026-01-29T20:30:48.000Z,"Paid users can now adjust thinking level on iOS and Android, in addition to web.
+
+Just tap “Thinking” in the composer and pick your level: Light, Standard, Extended, or Heavy.",1968395215536042241,en,4398626122,['2016972315784061007'],2016972315784061007,37,284,516,15,41,127058,OpenAI
+2026-01-29T19:39:14.000Z,https://t.co/fJxV8cVORd https://t.co/71q5YPcMKD,2016959338523611621,zxx,,['2016959338523611621'],2016959338523611621,637,955,8626,740,2063,3692460,OpenAI
+2026-01-27T17:59:31.000Z,"Prism is now available on the web to anyone with a ChatGPT personal account.
+
+Coming soon to ChatGPT Business, Team, Enterprise, and Education plans.
+
+https://t.co/r2lVbNAT0R",2016209462621831448,en,4398626122,['2016209468674261192'],2016209468674261192,46,49,621,13,102,196262,OpenAI
+2026-01-27T17:59:31.000Z,"Prism removes version conflicts and setup overhead—making powerful scientific tools easier to adopt and more accessible to researchers everywhere.
+
+https://t.co/1GX0Ykszqg",2016209462621831448,en,4398626122,['2016209467495653827'],2016209467495653827,69,22,972,8,179,220182,OpenAI
+2026-01-27T17:59:30.000Z,"Prism offers unlimited projects and collaborators in a single, cloud-based, LaTeX-native workspace.
+
+GPT-5.2 works inside your project with access to paper structure, equations, references, and surrounding context—right where the work happens. https://t.co/FBCX27uQRi",2016209462621831448,en,4398626122,['2016209464249221345'],2016209464249221345,69,30,1073,19,220,289073,OpenAI
+2026-01-27T17:59:29.000Z,"Introducing Prism, a free workspace for scientists to write and collaborate on research, powered by GPT-5.2.
+
+Available today to anyone with a ChatGPT personal account: https://t.co/9mTLAbxPdH https://t.co/GJOIipU3hx",2016209462621831448,en,,['2016209462621831448'],2016209462621831448,2275,1115,16180,1328,8806,5859337,OpenAI
+2026-01-22T17:26:10.000Z,@thejessezhang @AshwinSreenivas @DecagonAI @christinacaci @vanta @HeggieConnor @unifygtm @christinacaci is reshaping how trust works at scale with @TrustVanta. https://t.co/zuvxxPHbdb,2014382658990834064,en,4398626122,['2014389137617649750'],2014389137617649750,12,10,168,1,15,80140,OpenAI
+2026-01-22T17:10:51.000Z,@thejessezhang @AshwinSreenivas @DecagonAI @christinacaci @vanta @HeggieConnor is turning data into intelligent go-to-market systems with @unifygtm. https://t.co/stMkxZMmPi,2014382658990834064,en,4398626122,['2014385281097728460'],2014385281097728460,22,12,177,1,20,95392,OpenAI
+2026-01-22T17:00:30.000Z,@thejessezhang and @ashwinsreenivas are rebuilding how businesses talk to customers with @decagonAI. https://t.co/d1UV9UV96g,2014382658990834064,en,4398626122,['2014382677760279027'],2014382677760279027,13,4,147,0,6,26032,OpenAI
+2026-01-22T17:00:29.000Z,@kath_mcmahon and @velvetatom are pushing biological intelligence to new places with @ValthosTech. https://t.co/vlHMHiW14T,2014382658990834064,en,4398626122,['2014382672861396999'],2014382672861396999,18,6,184,8,14,58130,OpenAI
+2026-01-22T17:00:27.000Z,@kareemamin is building the interface between creativity and output with @Clay. https://t.co/UDGB7UUvyQ,2014382658990834064,en,4398626122,['2014382666230173982'],2014382666230173982,8,4,151,1,3,32089,OpenAI
+2026-01-22T17:00:25.000Z,Meet the Frontier Builders. https://t.co/5PWbj6B2V5,2014382658990834064,en,,['2014382658990834064'],2014382658990834064,102,154,1500,23,296,245325,OpenAI
+2026-01-21T22:14:07.000Z,https://t.co/SkGSqhBY83,2014095512874655867,zxx,4398626122,['2014099216302481418'],2014099216302481418,25,22,263,1,21,161819,OpenAI
+2026-01-21T21:59:25.000Z,Tab groups are now in ChatGPT Atlas. https://t.co/XxZknWHwaY,2014095512874655867,en,,['2014095512874655867'],2014095512874655867,161,264,2064,83,289,417902,OpenAI
+2026-01-21T05:13:29.000Z,"Horizon 1000 is a new $50 million initiative with the Gates Foundation, combining funding and technology to support health leaders in African countries as they strengthen primary health care across 1,000 clinics and the communities they serve.
+
+https://t.co/G1viarM8Zz",2013842364763136418,en,,['2013842364763136418'],2013842364763136418,120,143,1166,15,128,181549,OpenAI
+2026-01-20T23:29:20.000Z,"Listen to the OpenAI Podcast on—
+Spotify
+https://t.co/hLcRdGqI5p
+Apple
+https://t.co/0AdZ1ZsGZn
+YouTube
+https://t.co/lCGqv3uVqV",2013755708110709135,en,4398626122,['2013755756978245793'],2013755756978245793,21,11,189,1,25,172787,OpenAI
+2026-01-20T23:29:09.000Z,"Compute is the scarcest resource in AI, and demand keeps growing.
+
+On the OpenAI Podcast, our CFO Sarah Friar and Khosla Ventures founder @vkhosla talk to host @AndrewMayne about the demand for compute and how we get the benefits of AI to more people. https://t.co/9QJLBoPssm",2013755708110709135,en,,['2013755708110709135'],2013755708110709135,95,113,981,20,211,221630,OpenAI
